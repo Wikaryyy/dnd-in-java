@@ -1,3 +1,5 @@
+package classes;
+
 public class Dice {
 
     public int roll(int diceNumber, int maxNumber) {
